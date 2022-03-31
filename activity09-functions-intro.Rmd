@@ -1,6 +1,6 @@
 ---
 title: "Activity 9"
-author: "Name"
+author: "Moreen"
 output: github_document
 ---
 
@@ -14,6 +14,10 @@ In this activity, we will create a function for calculating the range of a numer
 
 To begin, we need `{tidyverse}` and `{gapminder}` (for a dataset to test our functions with) packages loaded.
 
+```{r}
+library(tidyverse)
+library(gapminder)
+```
 
 
 
